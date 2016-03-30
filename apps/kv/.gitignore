@@ -1,0 +1,8 @@
+/kv.iml
+/.idea
+/_build
+/cover
+/deps
+/.vscode
+erl_crash.dump
+*.ez
